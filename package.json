@@ -1,0 +1,26 @@
+{
+  "name": "weather-cn",
+  "version": "1.0.0",
+  "description": "天气预报技能 - 支持全球城市，无 API 密钥需求",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "wttr",
+    "open-meteo",
+    "climate"
+  ],
+  "author": "Leo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/openclaw.git",
+    "directory": "skills/weather-cn"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
